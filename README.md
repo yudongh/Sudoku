@@ -1,9 +1,9 @@
 # Sudoku
-Solve Sudoku game
 
-The code is written in Python 3, mainly from https://github.com/XujinLeo/every-week-practice/raw/master/solveSudoku/solveSudoku.py
-Just input the your sudoku puzzle, use 0 to present any vacant position, from left to right, top to bottom.
+The code is written in Python 3, mainly from <https://github.com/XujinLeo/every-week-practice/raw/master/solveSudoku/solveSudoku.py> </br>
+Just input your sudoku puzzle, use 0 to present any vacant position, from left to right, top to bottom, totally 81 digits. </br>
 Example:
+```
 $ python3 sudoku.py 004002300030000502250000897000720000000030000000094000849000016103000080006100900
 Your input:
 +-----+-----+-----+
@@ -33,3 +33,4 @@ Result:
 |1 7 3|4 6 9|2 8 5|
 |5 2 6|1 8 7|9 3 4|
 +-----+-----+-----+
+```
